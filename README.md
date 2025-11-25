@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Senior Android Developer</h3>
 
 - 🔭 I’m currently working on **Java, Android, Kotlin, Flutter, Dart**
 
